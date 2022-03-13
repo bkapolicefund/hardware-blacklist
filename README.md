@@ -9,3 +9,7 @@ NO LONGER WORKING IN SINGLE CPU
     AMD CPU'S SLOWER THAN RYZEN 3700X (WILL NO LONGER WORK)
     AMD 3700X
     AMD 3900X (MARGINAL AS IT MAY BARELY WORK NOW)
+    
+WARNING: DO NOT USE 1U RACK CASES WITH HI FREQUENCY CPU'S LIKE 5950X. 
+
+    use only 2U or more with big fanx on cooler and big fans pulling air from front to back of rack case.
