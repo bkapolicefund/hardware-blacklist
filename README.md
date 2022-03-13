@@ -12,4 +12,4 @@ NO LONGER WORKING IN SINGLE CPU
     
 WARNING: DO NOT USE 1U RACK CASES WITH HI FREQUENCY CPU'S LIKE 5950X. 
 
-    use only 2U or more with big fanx on cooler and big fans pulling air from front to back of rack case.
+    use only 2U or more with big fans on CPU cooler and big fans pulling air from front to back of rack case.
